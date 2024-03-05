@@ -1,5 +1,5 @@
-👋 Hi everyone! I'm Frontend developer. 💻
-👀 I’m interested in finding good restaurants or watching K-dramas.
+- 👋 Hi everyone! I'm Frontend developer. 💻
+- 👀 I’m interested in finding good restaurants or watching K-dramas.
 🌱 I’m currently learning web development using React, and I also want to learn Backend or iOS development later.
 💞️ I want to gain various experiences while developing with many people! 😽
 
