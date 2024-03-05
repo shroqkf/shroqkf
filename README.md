@@ -9,8 +9,12 @@
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-- ![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=shroqkf&show_icons=true&theme=radical)
+<br>
+  <b>Tools</b><br> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <!---
 shroqkf/shroqkf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- ![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=shroqkf&show_icons=true&theme=radical)
 --->
