@@ -21,7 +21,6 @@
 
 <b>Tools/Analytics</b>
 
-<br/> 
 
 - <b>사용해봤어요</b><br/> 
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
