@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 - 👋 Hi everyone! I'm Frontend developer. 💻
 - 👀 I’m interested in finding good restaurants or watching K-dramas.
 - 🌱 I’m currently learning web development using React, and I also want to learn Backend or iOS development later.
