@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning web development using React, and I also want to learn Backend or iOS development later.
 - 💞️ I want to gain various experiences while developing with many people! 😽
 <br>
-  <h3>✨ Skills</h3>
-  <b>Platforms & Languages</b><br> 
+  <h3>✨ Skills Ability</h3>
+  <b>Language/Framework/Library</b><br> 
+  <b>자주 사용해봤어요</b><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JS&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br>
   <b>Tools</b><br> 
