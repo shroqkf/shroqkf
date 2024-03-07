@@ -22,7 +22,7 @@
 <b>Tools/Analytics</b>
 
 
-- <b>사용해봤어요</b><br/> 
+- <b>자주 사용해봤어요</b><br/> 
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <!---
 shroqkf/shroqkf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
