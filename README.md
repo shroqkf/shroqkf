@@ -13,7 +13,7 @@
 <li> <a href = "https://github.com/HAT-Here-And-There"> 여행을 떠나요, 여기저기!</a> :  클라우드 네이티브 기반 여행지 비교 서비스. </a> 기획, FE 파트 담당 <sub>(2024.03 ~ 개발중)</sub> </li>
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 5기 Challenger : 웹 리액트 스터디 리드, 프로젝트 참여  <sub>(2023.03 ~ 2023.08)</sub> </li>
 <li> <a href = "https://github.com/TravelCompass-UMC"> Travel Compass</a> : <a href = "https://www.notion.so/4f17f862a9c946678f958a3d499d78a9?pvs=21"> 국내 여행 계획 설계 웹 사이트</a>  FE 파트 담당 <sub>(2023.02 ~ 개발중)</sub> </li>
-<li> <a href = "https://github.com/UMC-E-TEAM"> Carpe diem!</a> : <a href = "https://www.instagram.com/carpediem.estp">ESTP</a> 를 위한 Chat gpt를 이용한 음성녹음 분석 기능 통해 매일 색다른 하루 제공해주는 룰렛 서비스. FE 파트 담당 <sub>(2023.01 ~ 2023.03)</sub> </li>
+<li> <a href = "https://github.com/UMC-E-TEAM"> Carpe diem!</a> : Chat gpt를 이용한 음성녹음 분석 기능 통해 매일 색다른 하루 제공해주는 <a href = "https://www.instagram.com/carpediem.estp">ESTP</a> 맞춤  룰렛 서비스. FE 파트 담당 <sub>(2023.01 ~ 2023.03)</sub> </li>
 <hr>
 
 <h3>✨ Skills Ability</h3>
