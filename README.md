@@ -9,7 +9,7 @@
 
 <h2>💥 Experience </h2>
 
-<li> <a href = "https://github.com/AND-SOPT-WEB"> SOPT</a> : 35기 웹 파트  <sub>(2024.02 ~ 활동중)</sub> </li>
+<li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : 35기 웹 파트  <sub>(2024.02 ~ 활동중)</sub> </li>
 <li> <a href = "https://github.com/Codeitboost-Hongik"> Codeit boost 홍익대학교</a> 1기 Manager : 전체 행사 담당, FE 스터디 리드, 프로젝트 리드  <sub>(2024.02 ~ 활동중)</sub> </li>
 <li> <a href = "https://github.com/HAT-Here-And-There"> 여행을 떠나요, 여기저기!</a> :  클라우드 네이티브 기반 여행지 비교 서비스. </a> 기획, 디자인, FE 파트 담당 <sub>(2024.03 ~ 2024.08)</sub> </li>
 <li> <a href = "https://github.com/HIUMC"> UMC 홍익대지부</a> 5기 Challenger : 웹 리액트 스터디 리드, 프로젝트 참여  <sub>(2023.03 ~ 2023.08)</sub> </li>
