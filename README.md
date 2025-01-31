@@ -9,7 +9,8 @@
 
 <h2>💥 Experience </h2>
 
-<li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : <a href = "https://github.com/SOPT-all"> SOPT </a> 35기 웹 파트  <sub>(2024.02 ~ 활동중)</sub> </li>
+<li> <a href = "https://github.com/SOPT-all/35-APPJAM-WEB-DARUDA"> 다루다(daruda) </a> : 툴 사용이 미숙한 사람들을 위한 <a href = "https://www.daruda.site/"> 디지털 툴 소개 웹 사이트</a>  FE 파트 담당 <sub>(2024.12 ~ 2025.01)</sub> </li>
+<li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : <a href = "https://github.com/SOPT-all"> SOPT </a> 35기 웹 파트  <sub>(2024.09 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/Codeitboost-Hongik"> Codeit boost 홍익대학교</a> 1기 Manager : 전체 행사 담당, FE 스터디 리드, 프로젝트 리드  <sub>(2024.02 ~ 활동중)</sub> </li>
 <li> <a href = "https://github.com/HAT-Here-And-There"> 여행을 떠나요, 여기저기!</a> :  클라우드 네이티브 기반 여행지 비교 서비스. </a> 기획, 디자인, FE 파트 담당 <sub>(2024.03 ~ 2024.08)</sub> </li>
 <li> <a href = "https://github.com/HIUMC"> UMC </a> 5기 Challenger : 홍익대 지부 웹 리액트 스터디 리드, 프로젝트 참여  <sub>(2023.09 ~ 2024.02)</sub> </li>
@@ -27,12 +28,15 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=react&logoColor=%3178C6">
-<img src="https://img.shields.io/badge/ESlint-4B32C3?style=for-the-badge&logo=ESlint&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=react&logoColor=%3178C6">
+<img src="https://img.shields.io/badge/reactquery-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESlint-4B32C3?style=for-the-badge&logo=ESlint&logoColor=white">
+<img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
+<img src="https://img.shields.io/badge/storybook-FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </div>
 
 <br/>
@@ -54,6 +58,7 @@
 <div align="left">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
 </div>
 
 <br/>
@@ -61,6 +66,7 @@
 <b>Communication</b>
 <div align="left">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-481549?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </div>
