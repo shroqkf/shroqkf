@@ -9,7 +9,7 @@
 
 <h2>💥 Experience </h2>
 
-<li> <a href = "https://github.com/SOPT-all/35-APPJAM-WEB-DARUDA"> 다루다(daruda) </a> : 툴 사용이 미숙한 사람들을 위한 <a href = "https://www.daruda.site/"> 디지털 툴 소개 웹 사이트</a>  FE 파트 담당 <sub>(2024.12 ~ 2025.02)</sub> </li>
+<li> <a href = "https://github.com/Tool-daruda"> 다루다(daruda) </a> : 툴 사용이 미숙한 사람들을 위한 <a href = "https://www.daruda.site/"> 디지털 툴 소개 웹 사이트</a>  FE 파트 담당 <sub>(2024.12 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : <a href = "https://github.com/SOPT-all"> SOPT </a> 35기 웹 파트  <sub>(2024.09 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/ArtNeplatform"> 아트네(ArtNé) </a> : 예술대 학생들의 작품을 경매하는 <a href = "https://artne.store/"> 웹 서비스 플랫폼 </a>  FE 파트 담당 <sub>(2025.01 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/Codeitboost-Hongik"> Codeit boost 홍익대학교</a> 1기 Manager : 전체 행사 담당, FE 스터디 리드, 프로젝트 리드  <sub>(2024.02 ~ 2025.02)</sub> </li>
