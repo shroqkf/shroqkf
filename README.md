@@ -2,7 +2,7 @@
 
 👋 Hi everyone! I'm a web developer, passionate about creating user-friendly and visually appealing websites. 💻 <br>
 👀 I'm someone who finds excitement in creative thinking and problem-solving. <br>
-🌱 I am currently developing web applications using React and TypeScript, and I have aspirations to become a full stack developer by learning backend development or app development in the future. <br>
+🌱 I'm currently developing web applications using React and TypeScript, and I have aspirations to become a full stack developer by learning backend development or app development in the future. <br>
 💞️ I want to gain various experiences while developing with many people! 😽
 <br/>
 <br/>
