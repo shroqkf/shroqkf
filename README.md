@@ -9,6 +9,7 @@
 
 <h2>💥 Experience </h2>
 
+<li> <a href = "https://github.com/Morak-Team"> 모락(morak) </a> : 가치 있는 소비, 지도에서 손쉽게. <a href = "https://github.com/Morak-Team/Frontend"> 서울 시민을 위한 사회적기업 위치 기반 탐색 서비스</a>  FE 파트 담당 <sub>(2025.03 ~ 2025.05)</sub> </li>
 <li> <a href = "https://github.com/Tool-daruda"> 다루다(daruda) </a> : 툴 사용이 미숙한 사람들을 위한 <a href = "https://www.daruda.site/"> 디지털 툴 소개 웹 사이트</a>  FE 파트 담당 <sub>(2024.12 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : <a href = "https://github.com/SOPT-all"> SOPT </a> 35기 웹 파트  <sub>(2024.09 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/ArtNeplatform"> 아트네(ArtNé) </a> : 예술대 학생들의 작품을 경매하는 <a href = "https://github.com/ArtNeplatform/front"> 웹 서비스 플랫폼 </a>  FE 파트 담당 <sub>(2025.01 ~ 2025.02)</sub> </li>
@@ -33,8 +34,7 @@
 <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=react&logoColor=%3178C6">
 <img src="https://img.shields.io/badge/reactquery-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESlint-4B32C3?style=for-the-badge&logo=ESlint&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
 <img src="https://img.shields.io/badge/storybook-FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white">
