@@ -43,6 +43,15 @@
 
 <br/>
 
+<b>Database</b>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+</div>
+
+<br/>
+
 <b>Environment</b>
 
 <div align="left">
