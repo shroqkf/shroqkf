@@ -10,7 +10,7 @@
 <h2>💥 Experience </h2>
 
 <li> <a href = "https://github.com/hanaro7team1"> 시도(Hana SIDO) </a> : 시골과 도시를 연결하는 <a href = "https://sido.topician.com"> 시니어 대상 귀촌 여정 플랫폼</a>. 기획 및 풀스택 개발 <sub>(2025.08 ~ 2025.09)</sub> </li>
-<li> <a href = "https://github.com/Hanaro-Eureka/HPS"> 하나의 완벽한 비서 </a> : MZ 프리랜서 전용 스마트 금융 비서, 금융 데이터 기반 소비과 수입 분석 서비스. 기획 및 풀스택 개발 <sub>(2025.06 ~ 2025.07)</sub> </li>
+<li> <a href = "https://github.com/Hanaro-Eureka/HPS"> 하나의 완벽한 비서 </a> : MZ 프리랜서 전용 스마트 금융 비서, 금융 데이터 기반 수입과 소비 분석 서비스. 기획 및 풀스택 개발 <sub>(2025.06 ~ 2025.07)</sub> </li>
 <li> <a href = "https://github.com/Morak-Team"> 모락(morak) </a> : 가치 있는 소비, 지도에서 손쉽게. <a href = "https://github.com/Morak-Team/Frontend"> 서울 시민을 위한 사회적기업 위치 기반 탐색 서비스</a>  FE 파트 담당 <sub>(2025.03 ~ 2025.05)</sub> </li>
 <li> <a href = "https://github.com/Tool-daruda"> 다루다(daruda) </a> : 툴 사용이 미숙한 사람들을 위한 <a href = "https://www.daruda.site/"> 디지털 툴 소개 웹 사이트</a>  FE 파트 담당 <sub>(2024.12 ~ 2025.02)</sub> </li>
 <li> <a href = "https://github.com/AND-SOPT-WEB"> AND-SOPT-WEB</a> : <a href = "https://github.com/SOPT-all"> SOPT </a> 35기 웹 파트  <sub>(2024.09 ~ 2025.02)</sub> </li>
