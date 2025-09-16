@@ -8,7 +8,7 @@
 <br/>
 
 <h2>💥 Experience </h2>
-금융 데이터 기반 소비/수입 분석 서비스 → React + TypeScript 기반 FE 개발, 데이터 분석 및 시각화
+
 <li> <a href = "https://github.com/hanaro7team1"> 시도(Hana SIDO) </a> : 시골과 도시를 연결하는 <a href = "https://sido.topician.com"> 시니어 대상 귀촌 여정 플랫폼</a>. 기획 및 풀스택 개발 <sub>(2025.08 ~ 2025.09)</sub> </li>
 <li> <a href = "https://github.com/Hanaro-Eureka/HPS"> 하나의 완벽한 비서 </a> : MZ 프리랜서 전용 스마트 금융 비서, 금융 데이터 기반 소비과 수입 분석 서비스. 기획 및 풀스택 개발 <sub>(2025.06 ~ 2025.07)</sub> </li>
 <li> <a href = "https://github.com/Morak-Team"> 모락(morak) </a> : 가치 있는 소비, 지도에서 손쉽게. <a href = "https://github.com/Morak-Team/Frontend"> 서울 시민을 위한 사회적기업 위치 기반 탐색 서비스</a>  FE 파트 담당 <sub>(2025.03 ~ 2025.05)</sub> </li>
